@@ -1,5 +1,22 @@
 # APACHE KAFKA TUTORIAL
 
+
+# 📘 Apache Kafka Tutorial with Spring Integration
+
+This repository provides a **step-by-step research-oriented tutorial** on setting up **Apache Kafka** on **Windows** using both **KRaft (Kafka Raft)** mode and **ZooKeeper mode**.  
+Additionally, it includes guidelines for integrating **Spring Boot** applications with Apache Kafka for producing and consuming messages.  
+
+---
+
+## 🔹 Introduction
+
+Apache Kafka is a **distributed streaming platform** widely used for building real-time data pipelines and streaming applications.  
+
+Two ways to run Kafka:
+1. **KRaft Mode (Kafka without ZooKeeper)** – introduced in Kafka 2.8 and stable from Kafka 3.3+.  
+2. **ZooKeeper Mode (Legacy mode)** – Kafka cluster coordination using ZooKeeper.  
+
+
 ---
 
 ## KRAFT MODE
